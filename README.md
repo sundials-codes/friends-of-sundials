@@ -13,7 +13,7 @@ Packages here are not maintained by the SUNDIALS team. Use at your own risk.
 
 ## The List ##
 
--
+- [An example of a SUNDIALS addon](https://github.com/sundials-codes/sundials-addon-example ) by the SUNDIALS team
 -
 
 ### How to Get Your Project Listed ###
